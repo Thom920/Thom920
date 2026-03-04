@@ -1,11 +1,11 @@
 # Hallo, ik ben Thom! 👋
 
-### 🚀 Student Web Developer & Aspiring Full-stack Pro
+### 🚀 Student Web Developer
 Ik ben een gedreven student web developer die momenteel hard werkt aan portfolio-projecten en schoolopdrachten. Naast mijn studie ben ik altijd op zoek naar manieren om mijn eigen ideeën tot leven te brengen met code.
 
 - 🛠️ **Huidige focus:** Het perfectioneren van mijn portfolio en het verkennen van nieuwe technieken.
 - 🎓 **Toekomstplannen:** Na mijn studie en opdrachten wil ik meer tijd steken in persoonlijke projecten en innovatieve tools.
-- ⛸️ **Fun fact:** Je vindt me waarschijnlijk op de ijsbaan (zolang ze nog open zijn — ik tel de dagen al af tot ze weer sluiten!).
+- ⛸️ **Fun fact:** Je vindt me waarschijnlijk op de ijsbaan, zolang ze nog open zijn :(
 
 ---
 
@@ -23,12 +23,12 @@ Ik ben een gedreven student web developer die momenteel hard werkt aan portfolio
 ---
 
 ### 🌟 Uitgelicht Project
-**[Professional-Todo-Planner](https://github.com/Thom920/Professional-Todo-Planner)** Dit is het project waar ik het meest trots op ben. Ik heb hier enorm veel tijd en moeite in gestoken om een functionele, overzichtelijke en technisch sterke planner neer te zetten. Het resultaat weerspiegelt mijn groei als developer en mijn oog voor detail in zowel code als interface.
+**[Professional-Todo-Planner](https://github.com/Thom920/Professional-Todo-Planner)** Dit is het project waar ik het meest trots op ben. Ik heb hier enorm veel tijd en moeite in gestoken om een functionele, overzichtelijke en technisch sterke planner neer te zetten. Het resultaat weerspiegelt mijn groei als developer en mijn oog voor detail.
 
 ---
 
 ### 📫 Laten we praten!
-Ik ben momenteel **op zoek naar een uitdagende stage** waar ik mijn skills verder kan ontwikkelen en kan bijdragen aan vette projecten.
+Ik ben momenteel **op zoek naar een stage** waar ik mijn skills verder kan ontwikkelen en kan bijdragen aan vette projecten.
 
 - 📧 **E-mail:** [palapessythom@gmail.com](mailto:palapessythom@gmail.com)
 - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/thom-palapessy-56176129b/)
