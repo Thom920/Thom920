@@ -31,7 +31,7 @@ Ik ben een gedreven student web developer die momenteel hard werkt aan portfolio
 Ik ben momenteel **op zoek naar een uitdagende stage** waar ik mijn skills verder kan ontwikkelen en kan bijdragen aan vette projecten.
 
 - 📧 **E-mail:** [palapessythom@gmail.com](mailto:palapessythom@gmail.com)
-- 💼 **LinkedIn:** [Voeg hier de link naar je LinkedIn-profiel toe]
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/thom-palapessy-56176129b/)
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*
