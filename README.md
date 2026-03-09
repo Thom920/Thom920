@@ -1,5 +1,7 @@
 # Hallo, ik ben Thom! 👋
 
+[![Portfolio](https://img.shields.io/badge/Bekijk_mijn-Portfolio-00DC82?style=for-the-badge&logo=vercel&logoColor=white)](https://thompalapessy.nl)
+
 ### 🚀 Student Web Developer
 Ik ben een gedreven student web developer die momenteel hard werkt aan portfolio-projecten en schoolopdrachten. Naast mijn studie ben ik altijd op zoek naar manieren om mijn eigen ideeën tot leven te brengen met code.
 
