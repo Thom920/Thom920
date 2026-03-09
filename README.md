@@ -31,6 +31,7 @@ Ik ben een gedreven student web developer die momenteel hard werkt aan portfolio
 ### 📫 Laten we praten!
 Ik ben momenteel **op zoek naar een stage** waar ik mijn skills verder kan ontwikkelen en kan bijdragen aan vette projecten.
 
+- 🌐 **Portfolio:** [thompalapessy.nl](https://thompalapessy.nl)
 - 📧 **E-mail:** [palapessythom@gmail.com](mailto:palapessythom@gmail.com)
 - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/thom-palapessy-56176129b/)
 
